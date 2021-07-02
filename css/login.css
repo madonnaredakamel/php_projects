@@ -1,0 +1,19 @@
+.container{
+    margin-top: 100px;
+}
+
+.text{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+
+.donatebtn{
+    border: 0ch;
+    border-radius: 25px;
+    width: 130px;
+    background-color: #ff7907;
+    color: white;
+    height: 50px;
+    text-transform: capitalize;
+    
+}

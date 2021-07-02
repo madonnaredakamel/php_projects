@@ -1,0 +1,32 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.logoImg
+{
+    height: 126px;
+    width: 280px;
+}
+.navbar
+{
+    font-family: 'Kirang Haerang', cursive;
+    font-size: 30px;
+}
+.donatebtn{
+    border: 0ch;
+    border-radius: 25px;
+    width: 130px;
+    background-color: #ff7907;
+    color: white;
+    height: 50px;
+    text-transform: capitalize;
+    
+}
+footer{
+    padding-top: 50px;
+    width: 1213.990px;
+    padding-bottom: 100px;
+    
+}
